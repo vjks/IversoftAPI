@@ -1,0 +1,5 @@
+1. The Model Users was inherited from User in case we want to use the password field in future. And if there are to be other models that also need to have the same values as the User.
+
+2. Instead of creating an endpoint with the name of '/create_blog_post' the end point is instead just called 'blog_posts' and a POST request is sent to it with the necessary values. This allowed for the resue of existing code instead of creating new routes. 
+
+3. Instead of creating a '/edit_user' end point the '/users/<user_id>' end point is used to edit the user. Because it allowed the use of existing code and end points.
