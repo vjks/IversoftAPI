@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "database/seeds/DatabaseSeeder.php",
+			"settings":
+			{
+				"buffer_size": 488,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2018_03_27_054338_create_blog_posts_table.php",
+			"settings":
+			{
+				"buffer_size": 807,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 248.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/database",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/database/migrations",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/database/seeds"
+	],
+	"file_history":
+	[
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/database/migrations/2018_03_27_054204_create_user__roles_table.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/database/migrations/2018_03_27_054338_create_blog_posts_table.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/database/migrations/2018_03_27_054520_create_user__addresses_table.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/routes/api.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/app/User_Roles.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/app/Users.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/app/Providers/AppServiceProvider.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/app/Http/Controllers/Users/UsersController.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/app/Providers/RouteServiceProvider.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/routes/web.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/app/iversoft_user.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/.env",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/app/User.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/vendor/laravel/framework/src/Illuminate/Notifications/RoutesNotifications.php",
+		"/C/Users/vjks/Documents/GitHub/IversoftAPI/vendor/laravel/framework/src/Illuminate/Notifications/HasDatabaseNotifications.php",
+		"/C/node/global.js",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/custom 2.css",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/custom.css",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/example-element.js",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/theme.1.css",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/theme.css",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Ergonomics/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Inspections/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Inspections/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Ergonomics/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Ergonomics/EN/XML/Chapter 1 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Accident Investigations/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Accident Investigations/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Accident Investigations/EN/XML/Quiz 3.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Workplace Accident Investigations/EN/XML/Quiz 2.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Respiratory Protection Program/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Respiratory Protection Program/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Respiratory Protection Program/EN/XML/Chapter 6 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Respiratory Protection Program/EN/XML/Chapter 7 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Respiratory Protection Program/EN/XML/Chapter 4 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Respiratory Protection Program/EN/XML/Chapter 3 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Managing Workplace Hazards/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Managing Workplace Hazards/EN/XML/Chapter 2 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Managing Workplace Hazards/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Lockout Tagout Refresher/EN/XML/Course.xml",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-3/main.css",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Ladder Safety/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Ladder Safety/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/CourseUpdater_vj/udemy-price-updater/index-udemy-price-updater.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/CourseImporter_vj/CourseImporter_11thFeb2015/course-importer-edx/edx-courses-11thFeb-2015.xml",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/CourseImporter_vj/CourseImporter_11thFeb2015/course-importer-edx/index_edx.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/CourseImporter_vj/DBDevelopment/Insert_Course.sql",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/bitbucket_skillsdox/wp-content/plugins/skillsdox-woocommerce/skillsdox-woocommerce.php",
+		"/C/Users/vjks/OneDrive/Documents/Knowledge/UdemyCoursesPlugin/Udemy.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/bitbucket_skillsdox/wp-content/plugins/wordpress-importer/wordpress-importer.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/CapabilityX/PeaksSalesRecruiting/Jan2018/update-posts/update-posts.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/udemy-api-price-updater/index-udemy-price.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/CourseUpdater_vj/course-updater/course-updater/index-course-updater.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/SKDX/CourseUpdater_vj/course-updater/NoCoupon-10thMarch2016/index-course-updater.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/CapabilityX/PeaksSalesRecruiting/Jan2018/update-posts/posts_ids.php",
+		"/C/Users/vjks/OneDrive/_Docs/Work/CapabilityX/PeaksSalesRecruiting/Jan2018/update-posts/posts_ids",
+		"/C/ionic/instantpot3/src/pages/home/home.ts",
+		"/C/ionic/Ionic-3-Firebase-Login-Register-master/src/pages/home/home.html",
+		"/C/ionic/instantpot3/src/pages/profile/profile.ts",
+		"/C/ionic/instantpot3/src/app/app.module.ts",
+		"/C/ionic/instantpot2/src/index.html",
+		"/C/ionic/instantpot2/src/app/app.module.ts",
+		"/C/ionic/instantpot3/src/pages/home/home.html",
+		"/C/ionic/instantpot3/src/pages/profile/profile.html",
+		"/C/ionic/instantpot3/src/pages/list/list.html",
+		"/C/ionic/instantpot3/src/app/main.ts",
+		"/C/ionic/instantpot3/www/service-worker.js",
+		"/C/ionic/instantpot3/www/index.html",
+		"/C/ionic/instantpot3/src/app/app.component.ts",
+		"/C/ionic/instantpot3/src/app/app.html",
+		"/C/ionic/instantpot3/src/service-worker.js",
+		"/C/ionic/instantpot3/src/manifest.json",
+		"/C/ionic/instantpot3/src/index.html",
+		"/C/ionic/instantpot2/src/pages/about/about.html",
+		"/C/Windows/System32/instantPot/src/index.html",
+		"/C/Users/vjks/OneDrive/myJavaScriptPrograms/ParseXML/ParseXML.html",
+		"/C/Users/vjks/Downloads/ionic-v1.3.3/version.json",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Health and Safety Awareness for Supervisors/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Health and Safety Awareness for Supervisors/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/_Docs/Work/CapabilityX/search.php",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/jquery.themepunch.essential.js",
+		"/C/Users/vjks/AppData/Local/Temp/fz3temp-2/jquery.themepunch.enablelog.js",
+		"/C/Users/vjks/OneDrive/_Docs/Work/CapabilityX/PeaksSalesRecruiting/peaksalesrecruiting.wordpress.2018-01-12.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Combined Accessibility Standards Orientation/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Confined Space Awareness - Deployed/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Driver Safety/EN/XML/Chapter 5 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Driver Safety/EN/XML/Chapter 3 Quiz.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Driver Safety/EN/XML/Chapter 2 Quiz.xml",
+		"/C/Users/vjks/OneDrive/myJavaScriptPrograms/ParseXML/script_xml-working-answers.js",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Driver Safety/EN/XML/Course.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Asbestos Awareness - Fixed/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Asbestos Awareness/EN/XML/Exam.xml",
+		"/C/Egnyte/Shared/Wellnet Master/Cloud Courses/Siemens Conversions/Siemens - Asbestos Awareness/EN/XML/Chapter 8 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Asbestos Awareness/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Asbestos Awareness/EN/XML/Chapter 8 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Asbestos Awareness/EN/XML/Exam.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Fire Safety/EN/XML/Exam.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Fire Safety/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Fire Safety/EN/XML/Chapter 5 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Workplace Housekeeping/EN/XML/Exam.xml",
+		"/C/Users/vjks/OneDrive/myJavaScriptPrograms/ParseXML/script_xml-working-lessons.js",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Workplace Housekeeping/EN/XML/Ch 2 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Workplace Housekeeping/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Radiation Safety/EN/XML/Chapter 5 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Lockout Tagout/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Radiation Safety/EN/XML/Exam.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Radiation Safety/EN/XML/Chapter 3 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Radiation Safety/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Radiation Safety/EN/XML/Chapter 4 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Radiation Safety/EN/XML/Chapter 2 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Lockout Tagout/EN/XML/Exam.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Lockout Tagout/EN/XML/Chapter 5 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Lockout Tagout/EN/XML/Chapter 4 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Lockout Tagout/EN/XML/Chapter 3 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Confined Space Awareness/EN/XML/Chapter 5 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Confined Space Awareness/EN/XML/Exam.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Confined Space Awareness/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Confined Space Awareness/EN/XML/Chapter 4 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Health and Safety Awareness for Employees/EN/XML/Course.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Health and Safety Awareness for Employees/EN/XML/Chapter 2 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Health and Safety Awareness for Employees/EN/XML/Exam.xml",
+		"/C/Users/vjks/OneDrive/myJavaScriptPrograms/ParseXML/script_xml-working.js",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Office Health and Safety Part B/EN/XML/Chapter 1 Quiz.xml",
+		"/C/Users/vjks/OneDrive/Wellnet Master/Siemens - Office Health and Safety Part B/EN/XML/Chapter 2 Quiz.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\vjks\\Documents\\GitHub\\IversoftAPI"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Facade.php",
+			"color",
+			"#",
+			"testimonial-sign",
+			"testimonial-signature",
+			"testimonial-signture",
+			"Done",
+			"Not added",
+			"Done",
+			"<question",
+			"Not needed",
+			"Done",
+			"<Question",
+			"&quot;",
+			"Done",
+			"<Question",
+			"Done",
+			"WHERE",
+			"298",
+			"370",
+			"devlog",
+			"SalesCareer",
+			"Onboarding",
+			"Interviewing&Assessment",
+			"HumanResources&TalentAcquisition",
+			"SalesHiring&Recruiting",
+			"SalesManagement",
+			"SalesCompensation",
+			" ",
+			"\t",
+			"import",
+			"categor",
+			"Done",
+			".nav-right",
+			"vj",
+			"596047",
+			"/*",
+			"vj",
+			"added by vj",
+			"https://forblog.wpengine.com",
+			"search",
+			"Search...",
+			"Search ...",
+			"eg-search",
+			"forblog",
+			"author",
+			"Done",
+			" ",
+			"Done",
+			"<Question",
+			"question",
+			"questions",
+			"lessons",
+			"Done",
+			"<question",
+			"Done",
+			"the best way",
+			"formation for box",
+			"the brick formation",
+			"the \"brick\"",
+			"the brick",
+			"<question",
+			"question",
+			"can be found",
+			"responsibility to work in a ",
+			"Description",
+			"&",
+			";",
+			"- Done",
+			"A[",
+			"A"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\"",
+			"",
+			"369",
+			"340",
+			"370",
+			"365",
+			"368",
+			"367",
+			"366",
+			"364",
+			"",
+			"kj2018",
+			"",
+			"-",
+			"",
+			"and",
+			"",
+			"nums[",
+			"nums"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "database/seeds/DatabaseSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"SL.117.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database/migrations/2018_03_27_054338_create_blog_posts_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"SL.137.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "IversoftAPI.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 462.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
